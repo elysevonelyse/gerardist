@@ -1,0 +1,1952 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+    
+<!--Meta Tags--> 
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  		<title>Classes / Private Lessons on Personal Technology, Apple Computers & Devices</title>
+        <meta name="description" content="A resource for education about personal technology, specializing in Apple computers and devices. Classes, Private Lessons, and Free Demos" />
+		<meta name="author" content="Gerard Damiano Jr.">
+        <meta name="keywords" content="Lessons classes learn Apple mobile devices iPhone iPad Mac, Sanibel Apple computer teacher tutor education," />
+        <meta name="copyright" content="This website and all of it’s content is © 2016 Gerard Damiano Jr. unless otherwise specified. Content bearing the Creative Commons logo may be used or shared in accordance with their guidelines. cc 2016 Gerard Damiano Jr. some rights reserved." />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!--Stylesheets--> 
+        <link rel="stylesheet" href="css/bootstrap.min.css" />
+        <style>
+            body {
+                padding-top: 50px;
+                padding-bottom: 20px;
+            }
+        </style>
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css" />
+        <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/smoothness/jquery-ui.css" />
+        <link rel="stylesheet" href="css/main.css" />
+        
+
+        <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
+		
+		<!--Google Analytics" -->
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-4430038-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+		<script>
+		$(document).ready(function() {
+			$("tr[id^=cal]").hide();
+			
+			$(".header-edu").hover(function(){
+				$(this).attr("src","img/headers/edu.header_R.png");
+			}).mouseout(function(){
+				$(this).attr("src","img/headers/edu.header.png");
+			});
+		});
+		</script>
+		
+    </head>
+    <body>
+    <div id="loader"><img src="img/loading.gif" alt="Loading..." /></div>   
+    <!--#include file="inc/mobile-menu" -->
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-md-7">
+          
+          <a href="/" title="Return Home" class="pull-left"><img src="img/headers/edu.header.png" class="header-edu img-responsive nopad nomar" alt="Technology Education Lessons" /></a>
+          
+          <!-- <a href="/" class="square edu pull-left" style="margin-top:-15px;"></a> <img src="img/edu/title-education.png" alt="Education" class="ml20 pull-left" /> -->
+        </div>
+        <div class="col-xs-12 col-md-5 mt20 text-right">
+        	<!--<a class="gnav" href="#plessons">PRIVATE LESSONS</a>&nbsp;&nbsp;|&nbsp;&nbsp;--><a class="gnav" href="#schedule">SCHEDULE</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="gnav" href="#downloads">DOWNLOADS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="gnav" href="#links">LINKS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="gnav" href="http://gerardist.com/shop" title="Accessories available for purchase">ACCESSORIES</a>
+        </div>
+      </div>
+      <br /><br />
+      <div class="row">
+      	<div class="col-xs-12 col-md-3">
+	      	<!-- sidebar -->
+	      	
+	      	<img src="img/MacDaddy_265px.jpg" alt="Gerard Damiano Jr." class="img-responsive" />
+	      	
+	      	<h3 class="upper"><a name="plessons"></a>PRIVATE LESSONS</h3>
+<p><strong>PRIVATE LESSONS (personal or virtual)</strong>
+ I offer instruction for beginning and experienced users looking to improve their understanding of the Apple Macintosh computer, iPhone, iPad, iPod, Apple Watch and how they all work together. I offer solutions for protecting your data and your privacy.<p/>
+<br />
+<a name="perlessons"></a><strong>Personal Lessons</strong>
+I will travel to you and work together with you on your own devices. I can help you to connect to your network and assist you with accessories such as printers, scanners, and external drives. 
+<br /><br />
+<a name="vlessons"></a><strong>Virtual Lessons</strong>
+I can provide live, one-on-one instruction, from my computer to yours. You can take a Virtual Lesson from anywhere, at a time that is convenient for you. All you need is an internet connection.
+<p>For users of Apple computers and devices, we can connect via FaceTime, iMessage or iChat. Otherwise, we can use Skype or the free TeamViewer App from <u>any</u> computer. If you have never video conferenced before, that will be covered in your first lesson.
+<br /><br /></p>
+For more information, or to schedule a lesson, email: <script language=Javascript type=text/javascript>
+<!--
+document.write('<a href="mai');
+document.write('lto');
+document.write(':&#32;&#109;&#97;&#99;&#100;&#97;&#100;&#100;&#121;');
+document.write('@');
+document.write('&#103;&#101;&#114;&#97;&#114;&#100;&#105;&#115;&#116;&#46;&#99;&#111;&#109;">');
+document.write('&#32;&#109;&#97;&#99;&#100;&#97;&#100;&#100;&#121;');
+document.write('@');
+document.write('&#103;&#101;&#114;&#97;&#114;&#100;&#105;&#115;&#116;&#46;&#99;&#111;&#109;<\/a>');
+// -->
+</script><noscript>&#32;&#109;&#97;&#99;&#100;&#97;&#100;&#100;&#121; at 
+&#103;&#101;&#114;&#97;&#114;&#100;&#105;&#115;&#116; dot &#99;&#111;&#109;</noscript> or call <a href="tel:7186144109">718.614.4109</a><br />
+Discounted rates for groups.<br />Gift Certificates Available.<br /><br />
+
+<h3 class="upper"><a name="downloads"></a>DOWNLOADS</h3>
+<ul class="pdf">
+	<li class="pdf"><a class="iframe" href="edu/downloads/Jargon_v2.0.pdf">Computer Jargon 2.0 Guide</a><br />PDF (312k)</li>
+	<li class="pdf"><a class="iframe" href="edu/downloads/MenuSymbols_2.0.pdf">Macintosh Menu Symbols Guide</a><br />PDF (44k)</li>
+	<li class="pdf"><a class="iframe" href="edu/downloads/KeyboardShortcut_2.0.pdf">Mac keyboard Shortcut Guide</a><br />PDF (55k)</li>
+	<li class="pdf"><a class="iframe" href="edu/downloads/Earpods_Guide.pdf">Earpods User Guide</a><br />PDF (2.3MB)</li>
+</ul>
+
+<br />
+<h3 class="upper"><a name="links"></a>LINKS</h3>
+<ul class="html">
+	<li class="html"><a class="iframe" href="https://help.apple.com/iphone/10/">View the iOS 10 iPhone<br />User Guide</a></li>
+	<li class="html"><a class="iframe" href="https://help.apple.com/ipad/10/">View the iOS 10 iPad<br />User Guide</a></li>
+	<li class="html"><a class="iframe" href="https://help.apple.com/watch/">View the Apple Watch<br />User Guide</a></li>
+</ul>
+<br /><br />
+<a href="http://gerardist.com/shop" title="Accessories"><h3 class="green"> <span style="text-decoration: underline;">ACCESSORIES</span></h3></a>
+You may purchase accessories for use with iPhone, iPad, Macintosh Computers and other devices by using this <a href="http://gerardist.com/shop">link</a>.
+These are products that I demonstrate in class, and personally recommend.
+
+<!-- end sidebar -->
+      	</div>
+      	<div class="col-xs-12 col-md-9"> 
+      		<!-- right content -->
+      	
+      	<h3 class="upper"><a name="schedule"></a>Schedule of Classes and Events</h3>
+      	<p>Click on a class title for a full description.</p>
+	  	<p><img src="img/edu/event_calendar.jpg" alt="Event Calendar" class="mr10" align="left" /> Click on a date to add an individual class to your calendar for Mac, iPhone, iPad, Outlook or Google Calendar. <br class="hidden-md hidden-sm hidden-xs" />
+	  	<a href="webcal://www.gerardist.com/edu/Tech-Classes.ics">Add the class schedule to your calendar</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="iframe" href="edu/eCatalog.2016-17.pdf">View or Download The 2016-17 Course Catalog</a></p>
+
+<p class="pull-right"><a href="#november">November</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#january">January</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#february">February</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#march">March</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#april">April</a>
+  
+<!-- NOVEMBER -->
+    		
+      	<table class="table table-striped">
+      	<tr class="edu-month-head">
+        <td colspan="3"><a name="november"></a>
+        <h3 class="edu-title pull-left">November 2016</h3><a class="iframe" href="http://www.gerardist.com/edu/Fall2016-eflyer.pdf" target="_blank" class="pull-left ml20"> &nbsp;&nbsp;View or download the 11.16 Schedule</a></td>
+        <td colspan="3"><em class="pull-right">* Costs are for Members / Non-Members</em></td>
+        </tr>
+      <tr class="edu-table-head">
+        <td width="9%">Date</td>
+        <td width="35%">Class (click title for details)</td>
+        <td width="7%">Day</td>
+        <td width="17%">Time</td>
+        <td width="15%">Location</td>
+        <td width="17%">* Cost</td>
+      </tr>
+     
+       <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Nov.2017/11.09.16_iOS10.ics">11.09.16</a></td>
+        <td><a onclick="$('#cal110916').slideToggle();"><strong>What’s New in iOS 10 for iPhone & iPad</strong></a></td>
+        <td>Wed</td>
+        <td>9AM - 12PM</td>
+<td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal110916" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2017.class_images/iOS10_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+			    	<strong><em>Stay on the Cutting Edge with the Worlds Most Advanced Mobile Operating System</em></strong><br />
+					Apple is calling iOS 10 it’s biggest release yet. The new operating system gives super powers to <strong>The Messages App</strong>. Send messages in your own handwriting and customize message bubbles. Add <strong>Stickers</strong> and <strong>Animations</strong>, or send secret messages with “<strong>Invisible Ink</strong>”. Swap words with emojis. You can even <strong>draw on top of your videos</strong>. The new <strong>Home App</strong> lets you turn on lights, unlock doors, and even raise your window shade right from your mobile device. The <strong>News</strong> and <strong>Music Apps</strong> get a complete makeover. Use the <strong>Maps App</strong> to make dinner reservations or call a car. “<strong>Siri</strong>” now works with your favorite apps. <strong>3-D Touch integration</strong> and more! 
+      	</td>
+      </tr>     
+
+      <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Nov.2016/11.09.16_Camera.ics">11.09.16</a></td>
+        <td><a onclick="$('#cal1109162').slideToggle();"><strong>The Camera App for iPhone & iPad</strong></a></td>
+        <td>Wed</td>
+        <td>2PM - 5PM</td>
+<td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal1109162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2017.class_images/Camera_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+			    	<strong><em>“The Best Camera is the one you have with you”</em></strong><br>
+				Learn <strong>professional photography techniques</strong> to help you get the most out of both the <strong>iSight</strong> and <strong>FaceTime</strong> cameras. Shoot <strong>Square Format Images</strong> or Sweeping <strong>Panoramas</strong>. Capture action with <strong>Burst Mode</strong>, or speed it up with <strong>Time Lapse Photography</strong>! <strong>Flash Photography</strong>, <strong>HDR</strong>, and <strong>Basic Composition</strong>, will also be covered. Take Screenshots and discover other methods for acquiring images from Emails, Text Message and across the web. <strong>Shoot</strong> and <strong>Edit HD Video</strong> right on your device. You can even record action in <strong>Slow-Motion</strong>!
+		      	</div>
+
+<tr>
+        <td><a href="webcal://www.gerardist.com/edu/Nov.2017/11.10.16_iPhoneEss.ics">11.10.16</a></td>
+        <td><a onclick="$('#cal111016').slideToggle();"><strong>iPhone Essentials</strong></a></td>
+        <td>Thu</td>
+        <td>9AM - 12PM</td>
+<td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal111016" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2017.class_images/iPhone-Ess_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+					<strong><em>Take Control of your iPhone!</em></strong><br />
+					The key points of the entire iPhone series are condensed into this one session <strong>“Crash Course”</strong>, which is designed to get the beginner up and running, with a basic understanding of the iPhone and it's functions.
+      	</td>
+      </tr>     
+
+      <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Nov.2016/11.11.16_Google.ics">11.11.16</a></td>
+        <td><a onclick="$('#cal111116').slideToggle();"><strong>Searching with Google</strong></a></td>
+        <td>Fri</td>
+        <td>9AM - 12PM</td>
+<td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal111116" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2017.class_images/Google_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+					<strong><em>Search Engine Tricks and Techniques. Discover a wealth of Free Services courtesy of Google!</em></strong><br />
+					Not just the most popular search engine on the web, it is the single most visited website, period. Google boasts several hundred million queries each day. Learn Techniques to help you <strong>maximize your efforts</strong> and <strong>get the most accurate results</strong>. Uncover little know features of this amazing resource! Take advantage of Google's <strong>Free Products and Services</strong> such as <strong>Gmail</strong>, <strong>Google Earth</strong>, <strong>Google Maps</strong>, <strong>Google+</strong>, and more. Get <strong>Free Cloud Storage</strong> with <strong>Google Drive</strong>, and a <strong>Free Phone Number</strong> with <strong>Google Voice</strong>!<br />
+					<strong>Seek and Ye Shall Find!</strong>	
+				</div>
+	      	</div>
+      	</td>
+      	
+      	<tr>
+        <td><a href="webcal://www.gerardist.com/edu/Nov.2017/11.14.16_iOS10.ics">11.14.16</a></td>
+        <td><a onclick="$('#cal111416').slideToggle();"><strong>What’s New in iOS 10 for iPhone & iPad</strong></a></td>
+        <td>Mon</td>
+        <td>2PM - 5PM</td>
+<td> <a class="iframe" href="https://www.mapquest.com/search/results?slug=%2Fus%2Fflorida%2Fcaptiva-civic-assn-inc-354509441&query=Captiva%20Civic%20Assn%20Inc&page=0" target="_blank">Captiva Civ Assn</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal111416" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2017.class_images/iOS10_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+			    	<strong><em>Stay on the Cutting Edge with the Worlds Most Advanced Mobile Operating System</em></strong><br />
+					Apple is calling iOS 10 it’s biggest release yet. The new operating system gives super powers to <strong>The Messages App</strong>. Send messages in your own handwriting and customize message bubbles. Add <strong>Stickers</strong> and <strong>Animations</strong>, or send secret messages with “<strong>Invisible Ink</strong>”. Swap words with emojis. You can even <strong>draw on top of your videos</strong>. The new <strong>Home App</strong> lets you turn on lights, unlock doors, and even raise your window shade right from your mobile device. The <strong>News</strong> and <strong>Music Apps</strong> get a complete makeover. Use the <strong>Maps App</strong> to make dinner reservations or call a car. “<strong>Siri</strong>” now works with your favorite apps. <strong>3-D Touch integration</strong> and more! 
+      	</td>
+      </tr>     
+
+      <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/11.15.16_MacOS10.ics">11.15.16</a></td>
+        <td><a onclick="$('#cal111516').slideToggle();"><strong>What’s New in OS10.12 for Macintosh</strong></a></td>
+        <td>Tue</td>
+        <td>9AM - 12PM</td>
+<td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal111516" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2017.class_images/MacOS10.12_100.gif" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Learn the latest features of “the World’s Most Advanced Operating System!” </em></strong><br />
+<strong>Siri</strong> is now on the Macintosh Computer with new capabilities designed just for the desktop! Organize all your windows into <strong>Tabs</strong>. Float a video window with <strong>Picture in Picture</strong>. Discover an <strong>all-new Apple Music</strong> experience. Sierra helps you rediscover your best photos, shop faster and more conveniently online, and work more seamlessly between devices. It can also help free up valuable storage space. Now your Mac does even more for you, so you can do more with your Mac. 
+		      	</div>
+	      	</div>
+      	</td>
+      	
+      	<tr>
+        <td><a href="webcal://www.gerardist.com/edu/Nov.2017/11.15.16_Cloud.ics">11.15.16</a></td>
+        <td><a onclick="$('#cal1115162').slideToggle();"><strong>Cloud Computing</strong></a></td>
+        <td>Tue</td>
+        <td>2PM - 5PM</td>
+<td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal1115162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2017.class_images/iCloud.2016_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+					<strong><em>Back Up your Content and Share it between ALL of your devices...Automatically! </em></strong><br />
+					Learn the principles of Cloud Computing. Discover the Free Resources available to help you <strong>Sync</strong>, <strong>Back Up</strong>, and <strong>Share</strong> your data on any computer. Use Apple’s <strong>iCloud</strong> to keep your Contacts, Calendars and other information up to date. The <strong>iCloud Drive</strong> allows you to share any kind of file between all of your Apple Devices and a Mac or even a PC Computer! Protect your data with regular Back Ups, effortlessly, using the cloud. The easiest way to <strong>Back Up and Sync your data automatically</strong>
+      	</td>
+      </tr>     
+
+      <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Nov.2016/11.16.16_Watch.ics">11.16.16</a></td>
+        <td><a onclick="$('#cal111616').slideToggle();"><strong>Watch and Learn (The Apple Watch)</strong></a></td>
+        <td>Wed</td>
+        <td>9AM - 12PM</td>
+<td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal111616" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2017.class_images/Watch&Learn2_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+					<strong><em>The wearable technology from Apple that is as fashionable as it is functional! </em></strong><br />
+					Not a replacement for the iPhone, but an extension of it, designed to handle many tasks at a glance. First, and foremost, it’s a fashionable timepiece, accurate within 50 milliseconds. With choices of size, material, color and band, <strong>Apple&apos;s  &#8220;most personal device&#8221;</strong>, is also it’s most customizable. Whether you have an Apple Watch, or are considering buying one, this class will help you to choose the one that is right for you, and get you up and running with the basics of <strong>Watch OS3</strong>.
+		      	</div>
+	      	</div>
+      	</td>
+      	
+      	<tr>
+        <td><a href="webcal://www.gerardist.com/edu/Nov.2017/11.16.16_Photos.ics">11.16.16</a></td>
+        <td><a onclick="$('#cal1116162').slideToggle();"><strong>The Photos App for iPhone & iPad</strong></a></td>
+        <td>Wed</td>
+        <td>2PM - 5PM</td>
+<td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal1116162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2017.class_images/Photos-iOS9_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+					<strong><em>Organize, Edit and Enhance your photos, then sync them with ALL of your devices!</em></strong><br />
+					<strong>Manage your photo collection right on your device</strong>. Uses <strong>Smart Groupings</strong> to organize your photos by time and place, or create <strong>Albums</strong> according to your own preferences. Use <strong>powerful built in editing tools</strong> to manipulate and enhance your images. Now Photos incorporates <strong>3rd party filters</strong> within the app, to expand it’s capabilities even further. Create professional looking Slideshows in seconds. <strong>Share</strong> photos, or entire albums, directly from the App. <strong>Make Bad Photos look Good, and Good Photos look Great!</strong>
+      	</td>
+      </tr>     
+
+      <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Nov.2016/11.17.16_iPadEss.ics">11.17.16</a></td>
+        <td><a onclick="$('#cal111716').slideToggle();"><strong>iPad Essentials</strong></a></td>
+        <td>Thu</td>
+        <td>9AM - 12PM</td>
+<td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal111716" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2017.class_images/iPad-Ess_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+					<strong><em>Take Control of your iPad!</em></strong><br />
+					The key points of the entire iPad series are condensed into this one session “<strong>Crash Course</strong>”, which is designed to get the beginner up and running, with a basic understanding of the iPad and it's functions.
+		      	</div>
+	      	</div>
+      	</td>
+      	
+      	<tr>
+        <td><a href="webcal://www.gerardist.com/edu/Nov.2017/11.17.16_Apps.ics">11.17.16</a></td>
+        <td><a onclick="$('#cal1117162').slideToggle();"><strong>Apps for iPhone & iPad</strong></a></td>
+        <td>Thu</td>
+        <td>2PM - 5PM</td>
+<td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal1117162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2017.class_images/Apps_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+					<strong><em>Expand your capabilities with these proven, practical and productive Apps!</em></strong><br />
+					Applications or "Apps" are programs that your device can run to increase it's capabilities. There are currently more than 2 million apps available from the App Store, with new ones being developed everyday. The sheer volume of information can be overwhelming. Learn to navigate the <strong>App Store</strong> to discover the apps that are most useful to you. Explore some of the most popular ones, from the essential, to the ridiculous, to the sublime.
+      	</td>
+      </tr>     
+
+      <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Nov.2016/11.18.16_FB.ics">11.18.16</a></td>
+        <td><a onclick="$('#cal111816').slideToggle();"><strong>Connecting with Facebook</strong></a></td>
+        <td>Fri</td>
+        <td>9AM - 12PM</td>
+<td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal111816" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2017.class_images/FB_100.jpg" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+					Facebook can be an excellent way to connect with friends and family, around the block or around the world. Despite it’s popularity, some still find Facebook incomprehensible, and have very real concerns about privacy and security. This class demystifies Facebook with a simple, no-nonsense approach. Learn <strong>Privacy Settings to Protect Your Page</strong>, by controlling who has access to your content.<br /> 
+					<p></p>
+					<p>&#9733;Sign up for your free Facebook account prior to class and be prepared to login from your portable computer or device.</P>
+					
+		      	</div>
+	      	</div>
+      	</td>
+      	
+      	<tr>
+        <td><a href="webcal://www.gerardist.com/edu/Nov.2017/11.22.16_SWACKS.ics">11.22.16</a></td>
+        <td><a onclick="$('#cal112216').slideToggle();"><strong>Free Lecture at SWACKS (Topic TBD)</strong></a></td>
+        <td>Tue</td>
+        <td>7PM - 9PM</td>
+			<td> <a class="iframe" href="http://www.mapquest.com/us/florida/business-fort-myers/zion-lutheran-church-4683743" target="_blank">Zion Church</a></td>
+        <td>Free</td>
+      </tr>
+      <tr id="cal112216" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2017.class_images/StudyGroup_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+					This Free demonstration will be held at the monthly meeting of the Mac User Group known as <font style="color:red"><strong>SWACKS</strong></font> (The <font style="color:red"><strong>S</strong></font>outh<font style="color:red"><strong>W</strong></font>est Florida <font style="color:red"><strong>A</strong></font>pple <font style="color:red"><strong>C</strong></font>omputer <font style="color:red"><strong>K</strong></font>nowledge <font style="color:red"><strong>S</strong></font>ociety). SWACKS has been meeting on a regular basis and sharing information about Macintosh Computers, since the 1980s.
+					<br />Topic to be decided.
+      	</td>
+      </tr>     
+
+      <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Nov.2016/11.29.16_iPhoneEss.ics">11.29.16</a></td>
+        <td><a onclick="$('#cal112916').slideToggle();"><strong>iPhone Essentials</strong></a></td>
+        <td>Tue</td>
+        <td>9AM - 12PM</td>
+<td> <a class="iframe" href="https://www.mapquest.com/search/results?slug=%2Fus%2Fflorida%2Fcaptiva-civic-assn-inc-354509441&query=Captiva%20Civic%20Assn%20Inc&page=0" target="_blank">Captiva Civ Assn</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal112916" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2017.class_images/iPhone-Ess_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+						<strong><em>Take Control of your iPhone!</em></strong><br />
+						The key points of the entire iPhone series are condensed into this one session <strong>“Crash Course”</strong>, which is designed to get the beginner up and running, with a basic understanding of the iPhone and it's functions.
+		      	</div>
+	      	</div>
+      	</td>
+      	
+      	<tr>
+        <td><a href="webcal://www.gerardist.com/edu/Nov.2017/11.29.16_iPadEss.ics">11.29.16</a></td>
+        <td><a onclick="$('#cal1129162').slideToggle();"><strong>iPad Essentials</strong></a></td>
+        <td>Tue</td>
+        <td>2PM - 5PM</td>
+<td> <a class="iframe" href="https://www.mapquest.com/search/results?slug=%2Fus%2Fflorida%2Fcaptiva-civic-assn-inc-354509441&query=Captiva%20Civic%20Assn%20Inc&page=0" target="_blank">Captiva Civ Assn</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal1129162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2017.class_images/iPad-Ess_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+					<strong><em>Take Control of your iPad!</em></strong><br />
+					The key points of the entire iPad series are condensed into this one session “<strong>Crash Course</strong>”, which is designed to get the beginner up and running, with a basic understanding of the iPad and it's functions.
+      	</td>
+      </tr>     
+
+
+	      	</div>
+      	</td>
+      </tr>
+<!-- END NOVEMBER -->
+      
+<!--JANUARY-->
+<!-- 
+      	<table class="table table-striped">
+      	<tr class="edu-month-head">
+        <td colspan="3"><a name="january"></a>
+        <h3 class="edu-title pull-left">January 2016</h3>        
+			<a class="iframe" href="http://www.gerardist.com/edu/BA_Jan2016.pdf" target="_blank" class="pull-left ml20">&nbsp;&nbsp;View Printable Schedule 01.16</a></td>
+        <td colspan="3"><em class="pull-right">* Costs are for Members / Non-Members</em></td>
+        </tr>
+      <tr class="edu-table-head">
+        <td width="9%">Date</td>
+        <td width="35%">Class (click title for details)</td>
+        <td width="7%">Day</td>
+        <td width="17%">Time</td>
+        <td width="15%">Location</td>
+        <td width="17%">* Cost</td>
+      </tr>
+      <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Jan.2016/01.14.16_PT-Seminar.ics">01.14.16</a></td>
+        <td><a onclick="$('#cal011416').slideToggle();"><strong>iLearn: Personal Technology<br />for New Users (Seminar)</strong></a></td>
+        <td>Thu</td>
+        <td>6PM – 7:30PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$8 / $10</td>
+      </tr>
+      <tr id="cal011416" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iLearn_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Does your Smart Phone make you feel stupid?</em></strong><br />
+Technology has inserted itself into every aspect of our lives, seemingly overnight. And though it promises to make everything simpler and easier, for some, the reverse is true. For those who feel that this rapidly evolving technology has left them behind, it begs the question “What is it good for?”<p> 
+
+This free presentation by Visual Artist and Technology Enthusiast Gerard Damiano is part of the <strong>New Short Seminar Series at BIG ARTS, “Talking Points”</strong>. Damiano will discuss his approach to understanding the benefits of mobile devices such as the Smart Phone, Tablet, and Smart Watch as applied to such uses as <strong>Communication</strong>, <strong>Travel</strong>, <strong>Entertainment</strong>, <strong>Networking</strong> and <strong>Internet Privacy and Security</strong>.</p>
+		      	</div>
+	      	</div>
+      	</td>  
+     </tr>  
+       <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Jan.2016/01.19.16_iOS 9.ics">01.19.16</a></td>
+        <td><a onclick="$('#cal011916').slideToggle();"><strong>What’s New in iOS 9</strong></a></td>
+        <td>Tue</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal011916" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iOS9_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Stay on the Cutting Edge with the World's Most Advanced Mobile Operating System</em></strong><br />
+Apple, Inc. has been built on innovation, and this new release for iPhone and iPad is no exception.
+This class covers the most significant changes and upgrades that will affect all of your Apple Devices.
+Powerful new features such as <strong>Quick Type</strong>, <strong>Tap to Talk</strong>, <strong>Family Sharing</strong>, <strong>Hotspot Access</strong> and <strong>Time Lapse Video</strong>.<strong> Improvements</strong> to familiar apps, such as <strong>Camera</strong>, <strong>Photos</strong>, <strong>Mail</strong>, <strong>Messages</strong>,<strong> Safari</strong>,<strong> iTunes </strong>and the <strong>App Store</strong>. <strong>Handoff</strong> allows you to move seamlessly between your computer and all of your devices. Now you can even <strong>answer your phone on your computer, or iPad</strong>! Use <strong>iCloud Drive</strong> to work on any kind of file, anywhere (including your <strong>PC Computer</strong>)!
+		      	</div>
+	      	</div>
+      	</td>
+      </tr>       	
+      
+      <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Jan.2016/01.20.16_Mac-ElCapitan.ics">01.20.16</a></td>
+        <td><a onclick="$('#cal012016').slideToggle();"><strong>Mac Basics: OS10.11 El Capitan</strong></a></td>
+        <td>Wed</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal012016" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/El-Capitan_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Get a basic understanding of “the World’s Most Advanced Operating System” and it’s Latest Features!</em></strong><br />
+ Apple builds on the groundbreaking features and new design introduced in OS 10.10 Yosemite. Little improvements, that make a big difference. In addition to <strong>enhancements in Speed and Performance</strong>, El Capitan offers deeper integration between the<strong> Mail</strong>, <strong>Contacts</strong> and <strong>Calendar</strong> programs, and improvements to <strong>Safari</strong>, <strong>Maps</strong>, <strong>Notes</strong> and <strong>Spotlight Search</strong>. Work in multiple apps simultaneously with <strong>Split View</strong>! Explore all these new advances and more!
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+      <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Jan.2016/01.21.16_Google.ics">01.21.16</a></td>
+        <td><a onclick="$('#cal012116').slideToggle();"><strong>Searching With Google</strong></a>&nbsp;</td>
+        <td>Thu</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal012116" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/Google_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Search Engine Tricks and Techniques. Discover a wealth of Free Services courtesy of Google!</em></strong><br />
+Not just the most popular search engine on the web, it is the single most visited website, period. Google boasts several hundred million queries each day. Learn Techniques to help you <strong>maximize your efforts</strong> and <strong>get the most accurate results</strong>. Uncover little know features of this amazing resource! Take advantage of Google's Free Products and Services such as <strong>Gmail</strong>, <strong>Google Earth</strong>, <strong>Google Maps</strong>, <strong>Google+</strong>, and more. Get <strong>Free Cloud Storage</strong> with <strong>Google Drive</strong>, and a <strong>Free Phone Number</strong> with <strong>Google Voice</strong>!<br />
+<strong>Seek and Ye Shall Find!</strong>
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+	 <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Jan.2016/01.21.16_SanCapArtLeague.ics">01.21.16</a></td>
+        <td><a onclick="$('#cal0121162').slideToggle();"><strong>SanCap Art League <br />iPhone/iPad Basics & Beyond</strong></a></td>
+        <td>Thu</td>
+        <td>1:30PM - 3:30PM</td>       
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>Free</td>
+      </tr>
+      <tr id="cal0121162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iCreate-Demo_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+This free lecture will be presented by The Sanibel Captiva Art League in The Philip's Gallery at BIG ARTS<br />
+Gerard Damiano will give a demonstration on the iPhone and iPad, and discuss how to submit artwork digitally for shows. 
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+            <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Jan.2016/01.22.16_SocMedia.ics">01.22.16</a></td>
+        <td><a onclick="$('#cal012216').slideToggle();"><strong>Social Media & Networking</strong></a></td>
+        <td>Fri</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal012216" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/SocialNet_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Connect & share with the people in your life…  individually, or all at once!</em></strong><br />
+Social Media as we know it is less than 20 years old, yet it continues to shape the way our culture communicates. For some however, it is a jargon filled mystery, which has turned all of our pound signs into “Hashtags”. This class provides a brief <strong>history of Social Media</strong>, with an overview of some of the most popular sites, such as <strong>Facebook</strong>, <strong>Twitter</strong>, <strong>MySpace</strong>, <strong>Instagram</strong>, <strong>linkedin</strong>, and more. Learn which sites are most suitable for you, and <strong>take advantage of today's most popular networking forums!</strong>
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+      <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Jan.2016/01.22.16_iTunes1.ics">01.22.16</a></td>
+        <td><a onclick="$('#cal0122162').slideToggle();"><strong>iTunes: Master Your Music</strong></a></td>
+        <td>Fri</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0122162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iTunes.Music_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Rock your World… with iTunes!</em></strong><br />
+<strong>Rip, Remix and Burn.</strong> Organize and share your music collection across all of your devices. Use iTunes on you computer to import music from CDs and other sources, create customized playlists and burn your own CDs. Then sync your iPod, iPad or iPhone! Understand digital music formats and learn which work best for you. Unlock the power of the iTunes Visualizer. Discover endless sources for Free Music! Plus Tips, Tricks, Shortcuts and more!
+&#9733; iTunes comes installed on all Macintosh computers and is available as a Free Download for PCs. Please bring your portable computer and all Apple devices that you listen to music on.
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+      <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Jan.2016/01.26.16_Apple Watch.ics">01.26.16</a></td>
+        <td><a onclick="$('#cal012616').slideToggle();"><strong>Watch and Learn: The Apple Watch</strong></a></td>
+        <td>Tue</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal012616" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/Watch&Learn2_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>The long awaited wearable technology from Apple that is as fashionable as it is functional!</em></strong><br />
+Not a replacement for the iPhone, but an extension of it, designed to handle many tasks at a glance. First, and foremost, it’s a fashionable timepiece, accurate within 50 milliseconds. With choices of size, material, color and band, <strong>Apple’s “most personal device”</strong>, is also it’s most customizable. The Apple Watch features the innovative <strong>Digital Crown</strong>, and a <strong>Taptic Engine</strong> for alerts.  Use it to make payments using <strong>Apple Pay</strong>. Whether you have an Apple Watch, or are considering buying one, this class will help you to choose the one that is right for you, and get you up and running with the basics of the <strong>Watch OS</strong>.
+		  	  </div>
+	      	</div>
+      	</td>
+      </tr>
+      <tr>    
+                 <td><a href="webcal://www.gerardist.com/edu/Jan.2016/01.26.16_SWACKS.ics">01.26.16</a></td>
+        <td><a onclick="$('#cal012815').slideToggle();"><strong>Free Demonstration at SWACKS<br />(Topic TBD)</strong></a></td>
+        <td>Tue</td>
+        <td>7PM - 9PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/us/florida/business-fort-myers/zion-lutheran-church-4683743" target="_blank">Zion Church</a></td>
+                <td>Free</td>
+      </tr>
+      <tr id="cal012815" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/StudyGroup_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+This Free demonstration will be held at the monthly meeting of the Mac User Group known as <font style="color:red"><strong>SWACKS</strong></font> (The <font style="color:red"><strong>S</strong></font>outh<font style="color:red"><strong>W</strong></font>est Florida <font style="color:red"><strong>A</strong></font>pple <font style="color:red"><strong>C</strong></font>omputer <font style="color:red"><strong>K</strong></font>nowledge <font style="color:red"><strong>S</strong></font>ociety). SWACKS has been meeting on a regular basis and sharing information about Macintosh Computers, since the 1980s.
+<br />Topic to be decided.
+</div>
+	      	</div>
+      	</td>
+      </tr>
+            <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Jan.2016/01.27.16_iPhone1.ics">01.27.16</a></td>
+        <td><a onclick="$('#cal012716').slideToggle();"><strong>iPhone Lesson 1: Basics</strong></a></td>
+        <td>Wed</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal012716" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iPhone1_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Unlock the potential of this powerful pocket device!</em></strong><br />
+This class covers <strong>Hardware</strong>, <strong>Settings</strong>, and <strong>Basic Operations</strong>. Learn the <strong>Full Functionality of the Phone App</strong>, including <strong>Visual Voicemail</strong>, <strong>Conference Calling</strong> and <strong>FaceTime</strong>. <strong>Back Up</strong> your phone and keep it updated using <strong>iCloud</strong>. Whether you have an iPhone, or are considering purchasing one, there is something for everyone in this 3 hour "Brain Dump".
+	      	</div>
+      	</td>
+      </tr>
+      <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Jan.2016/01.27.16_MacPwrUsr.ics">01.27.16</a></td>
+        <td><a onclick="$('#cal0127162').slideToggle();"><strong>Mac Power Users: Tips & Tricks</strong></a></td>
+        <td>Wed</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0127162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/PwrUsr_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Maximize your Keystrokes and get the most out of your Mac!</em></strong><br />
+Learn the hidden features and functions of the Macintosh computer. <strong>Keyboard Shortcuts</strong>, <strong>Killer Tips</strong> and <strong>Tricks</strong>, <strong>Maintenance</strong> and <strong>Back Up</strong> strategies. Beginner, intermediate and advanced users alike, can benefit from this examination of "what they don't tell you" when you buy your Mac.
+	      	</div>
+      	</td>
+      </tr>
+      <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Jan.2016/01.28.16_iPad1.ics">01.28.16</a></td>
+        <td><a onclick="$('#cal012816').slideToggle();"><strong>iPad Lesson 1: Basics</strong></a></td>
+        <td>Thu</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal012816" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iPad1_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>The World at a flick of your finger!</em></strong><br />
+Navigate the Multi-Touch Screen Interface and learn about the iPad's <strong>Hardware</strong> and <strong>Settings</strong>. Discover <strong>Typing Techniques </strong>and <strong>Tricks</strong> that will give you the functionality of a <strong>Full Keyboard</strong>! <strong>Cut</strong>, <strong>Copy</strong> and <strong>Paste</strong>! <strong>Spell Check</strong> and <strong>Look-Up Words</strong> as you go.  <strong>Maintain Your Battery</strong>, and <strong>Back Up</strong> your data using <strong>iCloud</strong>.
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>    
+      <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Jan.2016/01.28.16_PT1.ics">01.28.16</a></td>
+        <td><a onclick="$('#cal0128162').slideToggle();"><strong>Personal Technology 1: Communication</strong></a></td>
+        <td>Thu</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0128162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iLearn1.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+With so many different means at our disposal, sometimes we still fail to communicate, or are completely misunderstood. Which method is most appropriate for a given situation? What are the most common mistakes in email? What are the rules of digital etiquette? This class covers the basics of digital communication. <strong>Phone Calls</strong>, <strong>Conference Calling</strong>, and <strong>Visual Voicemail</strong>. <strong>Text Messaging</strong> and <strong>Multi-Media Messaging</strong>. <strong>Video Chat</strong> with <strong>FaceTime</strong> and <strong>Skype</strong>. Understand <strong>Emoticons</strong>,<strong> Emoji</strong> and <strong>Computer Jargon</strong>. <strong>Make phone calls without a Phone!</strong> Communicate with friends and loved ones around the world, Face to Face, for Free!
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+      <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Jan.2016/01.29.16_FB.ics">01.29.16</a></td>
+        <td><a onclick="$('#cal012916').slideToggle();"><strong>Connecting with Facebook</strong></a></td>
+        <td>Fri</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal012916" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/FB_100.jpg" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Understand the world’s most popular Social Media Website</em></strong><br>
+Facebook can be an excellent way to connect with friends and family, around the block or around the world.
+This web giant grew beyond the Harvard University Campus, to have nearly <strong>1.5 billion users</strong> in just 10 years.
+Yet, despite it’s popularity, some still find Facebook incomprehensible, and have very real concerns about privacy and security. This class demystifies Facebook, and offers a basic understanding of it, with a simple, no-nonsense approach. Learn <strong>Privacy Settings</strong> to <strong>Protect Your Page</strong>, by controlling who has access to your content.
+		  	  </div>
+	      	</div>
+      	</td>
+      </tr>
+       <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Jan.2016/01.29.16_iTunes2.ics">01.29.16</a></td>
+        <td><a onclick="$('#cal0129162').slideToggle();"><strong>iTunes: Manage Your Devices</strong></a></td>
+        <td>Fri</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0129162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iTunes.Devices_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+					iTunes may have began as a simple music player, but it has grown to become much more. 
+					It is not only a mobile device management application, but the <strong>Digital Hub</strong> that let’s you manage and link all of your devices together. It enables you to <strong>Sync</strong> music and photos from your Mac or PC computer, to update and <strong>Backup</strong> all of your Apple devices. It is your portal to the iTunes Store, where you can purchase and download </trong>Music</strong>, <strong>Music Videos</strong>, <strong>TV Shows</strong>, <strong>Audiobooks</strong>, <strong>Podcasts</strong>, <strong>Movies</strong>, and even <strong>Movie Rentals</strong>. Then <strong>Share</strong> all of this media throughout your network, with <strong>Homesharing</strong>.<strong> iTunes U</strong> brings you lectures, discussions, lessons, and more from top universities, museums, and other cultural institutions around the world.
+</div>
+	      	</div>
+      	</td>
+      </tr>
+-->
+        
+<!--FEBRUARY-->
+<!--
+     	<table class="table table-striped">
+      	<tr class="edu-month-head">
+        <td colspan="3"><a name="february"></a>
+        <h3 class="edu-title pull-left">February 2016</h3>        
+<a class="iframe" href="http://www.gerardist.com/edu/BA_Feb2016.pdf" target="_blank" class="pull-left ml20">&nbsp;&nbsp;Printable Schedule 02.16</a></td>
+       
+  
+       		<td colspan="3"><em class="pull-right">* Costs are for Members / Non-Members</em></td>
+        </tr>
+      <tr class="edu-table-head">
+        <td width="9%">Date</td>
+        <td width="35%">Class (click title for details)</td>
+        <td width="7%">Day</td>
+        <td width="17%">Time</td>
+        <td width="15%">Location</td>
+        <td width="17%">* Cost</td>
+      </tr>
+ 	
+ 	  <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.03.16_iPhone2.ics">02.03.16</a></td>
+        <td><a onclick="$('#cal020316').slideToggle();"><strong>iPhone Lesson 2: Intermediate</strong></a></td>
+        <td>Wed</td>
+        <td>9AM – 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal020316" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iPhone2_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Discover the Amazing Built-in Apps that come with your phone!</em></strong><br />
+The iPhone comes fully equipped with many useful tools such as a <strong>Calculator</strong>, <strong>Notes</strong>, <strong>Voice Memos</strong>, and even a customizable <strong>Stock Ticker</strong>. Learn <strong>Typing Techniques</strong> that give you the functionality of a Full Keyboard! <strong>Cut, Copy and Paste</strong>! <strong>Spell Check</strong> and look-up words as you go. Get organized with the <strong>Contacts</strong> and <strong>Calendar</strong> Apps, then Sync your data instantly with your computer, and all of your Apple devices, using <strong>iCloud</strong>! Protect your identity and your data with <strong>Privacy Settings</strong>.
+		      	</div>
+	      	</div>
+      	</td>  
+     </tr>  
+
+       <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.04.16_iPad2.ics">02.04.16</a></td>
+        <td><a onclick="$('#cal020416').slideToggle();"><strong>iPad Lesson 2: Intermediate</strong></a></td>
+        <td>Thu</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal020416" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iPad2_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>The Future of Personal Computing… Today!</em></strong><br>Discover the powerful built-in apps that come on your iPad. Get organized with the <strong>Contacts</strong> and <strong>Calendar</strong> Apps, then <strong>sync</strong> with all of your Apple devices instantly using <strong>iCloud</strong>! Connect with friends, family and business associates using <strong>Text</strong> and <strong>Multi-Media Messaging</strong> or <strong>Video Conference</strong> with <strong>FaceTime</strong>!
+		      	</div>
+	      	</div>
+      	</td>
+      </tr>       	
+     
+      <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.04.16_PT-2.ics">02.04.16</a></td>
+        <td><a onclick="$('#cal0204162').slideToggle();"><strong>Personal Technology 2: Travel</strong></a></td>
+        <td>Thu</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0204162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iLearn2.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Your smart device can be an invaluable tool while traveling with tips and tricks for the tourist and seasoned traveller alike!</em></strong><br />
+
+Your smart device can be an invaluable tool while traveling.<strong> Locate yourself on a map</strong>, <strong>estimate travel times</strong>, <strong>get turn-by-turn directions</strong>, and even <strong>beat traffic</strong>. Use apps to find the <strong>Cheapest Gas<strong>, or the nearest public bathroom! <strong>Translate Languages</strong>, <strong>Convert Currency</strong>. <strong>Call a Car</strong>, or <strong>Book a Flight</strong>.  <strong>Get reviews on Restaurants and Hotels</strong>. Even <strong>beat Long Distance Roaming Charges</strong> while abroad!
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+
+   <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.09.16_SWACKS.ics">02.09.16</a></td>
+        <td><a onclick="$('#cal020916').slideToggle();"><strong>Free Presentation at SWACKS<br />(Topic TBD)</strong></a>&nbsp;</td>
+        <td>Tue</td>
+        <td>1PM – 3PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/us/florida/business-fort-myers/zion-lutheran-church-4683743" target="_blank">Zion Church</a></td>
+        <td>Free</td>
+      </tr>
+      <tr id="cal020916" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/StudyGroup_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+This Free demonstration will be held at the monthly meeting of the Mac User Group known as <font style="color:red"><strong>SWACKS</strong></font> (The <font style="color:red"><strong>S</strong></font>outh<font style="color:red"><strong>W</strong></font>est Florida <font style="color:red"><strong>A</strong></font>pple <font style="color:red"><strong>C</strong></font>omputer <font style="color:red"><strong>K</strong></font>nowledge <font style="color:red"><strong>S</strong></font>ociety). SWACKS has been meeting on a regular basis and sharing information about Macintosh Computers, since the 1980s.
+<br />Topic to be decided.
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+ 	 <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.10.16_iPhone3.ics">02.10.16</a></td>
+        <td><a onclick="$('#cal021016').slideToggle();"><strong>iPhone Lesson 3: Email & The Web</strong></a></td>
+        <td>Wed</td>
+        <td>9AM - 12PM</td>       
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal021016" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iPhone3_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Surf the Web, and manage your Email accounts on the go!</em></strong><br />
+<strong>Surf The Web</strong> with <strong>Safari</strong>. Download information, images and more, then share it all, effortlessly. <strong>Bookmark your favorite sites</strong>, then <strong>Sync</strong> them with your home computer, and other Apple devices. Set up all of your <strong>Email</strong> accounts right on your phone. <strong>Send</strong>, <strong>Receive</strong>, <strong>Reply</strong>, <strong>Forward messages</strong>, and even add <strong>Attachments</strong>! Learn essential <strong>Email Etiquette</strong>. Use the <strong>Messages App</strong> to send <strong>text</strong> or <strong>multimedia messages</strong> free of charge!
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+             <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.10.16_Apps1.ics">02.10.16</a></td>
+        <td><a onclick="$('#cal0210162').slideToggle();"><strong>Essential Apps</strong></a></td>
+        <td>Wed</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0210162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/Apps1_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Expand your capabilities with these proven, practical and productive apps!</em></strong><br />
+Learn to navigate the <strong>App Store</strong> and expand the possibilities of all your Apple devices. Download the most acclaimed and widely used 3rd Party Apps currently available. Explore apps to help you gather information, <strong>network</strong>, <strong>dine</strong>, <strong>travel</strong>, <strong>shop</strong>, <strong>increase productivity</strong>, and much more!
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+  <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.11.16_iPad3.ics">02.11.16</a></td>
+        <td><a onclick="$('#cal021116').slideToggle();"><strong>iPad Lesson 3: Email & Web</strong></a></td>
+        <td>Thu</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal021116" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iPad3_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Stay connected and harness the power of the Web… On The Go!</em></strong><br />
+<strong>Surf The Web</strong> with <strong>Safari</strong>. Download information, images and more, then <strong>share it all</strong>, effortlessly. <strong>Bookmark your favorite sites</strong>, then <strong>Sync</strong> them with your home computer, and other Apple devices. Set up all of your <strong>Email</strong> accounts right on your iPad to <strong>Send</strong>, <strong>Receive</strong>, <strong>Reply</strong>, and <strong>Forward</strong> messages. Even add <strong>Attachments</strong>! Learn <strong>Digital Etiquette</strong> for the 21st Century.
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+     <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.11.16_PT-3.ics">02.11.16</a></td>
+        <td><a onclick="$('#cal0211162').slideToggle();"><strong>Personal Technology 3: Entertainment</strong></a></td>
+        <td>Thu</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0211162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iLearn3.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Keep all of your Movies, Books, Magazines, TV Shows and Music in your pocket... <br />and take them with you wherever you go!</em></strong><br />
+Most forms of entertainment are now available on your mobile device. Discover a world of <strong>Music for Free</strong>! Listen to any radio station in the world, or create your own!  <strong>Watch Movies</strong>, <strong>TV Shows</strong>, <strong>Videos</strong>, and take your cable TV subscriptions with you, wherever you go. Keep track of all of your favorite <strong>Sports</strong> teams and get scores instantly. Carry 100 <strong>Books</strong> in your pocket, and have <strong>Curated News stories</strong> delivered to you daily. <strong>Games</strong>, <strong>Puzzles</strong> and More! This class covers some of the most Fun Apps available! <strong>Enjoy Yourself!</strong>
+		  	  </div>
+	      	</div>
+      	</td>
+      </tr>
+   <tr>    
+                 <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.17.16_iPhone4.ics">02.17.16</a></td>
+        <td><a onclick="$('#cal021716').slideToggle();"><strong>iPhone Lesson 4: Media<br /></strong></a></td>
+        <td>Wed</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+                <td>$50 / $63</td>
+      </tr>
+      <tr id="cal021716" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iPhone4_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Master All of Your Media, and take it with you, wherever you go!</em></strong><br>
+Purchase songs through the <strong>iTunes Store</strong>, or <strong>Sync</strong> your entire <strong>Music</strong> collection from your computer. Download <strong>Podcasts</strong> and discover a world of <strong>Free Content</strong>! Read <strong>eBooks</strong>, <strong>Newspapers</strong>, and <strong>Magazines</strong>. Watch <strong>Videos</strong>, <strong>Movies</strong>, <strong>TV Shows</strong> and more!
+				</div>
+	      	</div>
+      	</td>
+      </tr>
+                 <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.17.16_Apps2.ics">02.17.16</a></td>
+        <td><a onclick="$('#cal0217162').slideToggle();"><strong>Entertaining Apps</strong></a></td>
+        <td>Wed</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0217162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/Apps2_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Have Fun with the latest Videos, Music, Games, Puzzles and more!</em></strong><br />
+<strong>Listen to any radio station in the world</strong>, or create your own! Download <strong>Free Podcasts</strong> or choose from millions of songs to purchase. <strong>Watch Movies</strong>, <strong>TV Shows</strong>, <strong>Videos</strong>, and keep track of all of your favorite <strong>Sports</strong> teams. <strong>Skill Games</strong>, <strong>Word Games</strong>, <strong>Trivia<strong> and <strong>Puzzles</strong>, that test your reflexes, your intelligence, your luck, and your sanity! <strong>Enjoy Yourself!</strong> 
+	      	</div>
+      	</td>
+      </tr>
+       <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.18.16_iPad4.ics">02.18.16</a></td>
+        <td><a onclick="$('#cal021816').slideToggle();"><strong>iPad Lesson 4: Media</strong></a></td>
+        <td>Thu</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal021816" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iPad4_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Master All of Your Media, and take it with you, wherever you go!</em></strong><br>
+Purchase songs through the <strong>iTunes Store</strong>, or <strong>Sync</strong> your entire <strong>Music</strong> collection from your computer. Download <strong>Podcasts</strong> and discover a world of <strong>Free Content</strong>! Read <strong>eBooks</strong>, <strong>Newspapers</strong>, and <strong>Magazines</strong>. Watch <strong>Videos</strong>, <strong>Movies</strong>, <strong>TV Shows</strong> and more!
+	      	</div>
+      	</td>
+      </tr>
+          
+     <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.18.16_PT-4.ics">02.18.16</a></td>
+        <td><a onclick="$('#cal0218162').slideToggle();"><strong>Personal Technology 4:<br />Social Networking</strong></a></td>
+        <td>Thu</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0218162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iLearn4.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Gain a basic understanding of the most popular Social Media sites, such as Facebook, Twitter, Instagram, Linkedin, & more!</em></strong><br />
+Connect with people beyond your immediate circle, and find a vast community who shares your common interests! This class provides a brief <strong>history of Social Media</strong>, with an overview of some of the most popular sites, such as <strong>Facebook</strong>, <strong>Twitter</strong>, <strong>MySpace</strong>, <strong>Instagram</strong>, <strong>Linkedin</strong>, and more. Learn which sites are most suitable for you, and take advantage of today's most popular networking forums!
+	      	</div>
+      	</td>
+      </tr>
+      
+     <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.19.16_iCreate.ics">02.19.16</a></td>
+        <td><a onclick="$('#cal021916').slideToggle();"><strong>iCreate: Art and Photography<br />for iPhone & iPad</strong></a></td>
+        <td>Fri</td>
+        <td>10AM - 11AM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal021916" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iCreate-Demo_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Express Yourself!</em></strong>	
+<p>Apple’s popular mobile devices, the iPhone, iPad and iPod Touch, are also powerful portable art studios, that you can take with you wherever you go! The built in Camera lets you shoot high definition digital photographs, while easy to use, image editing tools allow you to retouch and enhance these photos, to make bad pictures look good, and good ones look great!</p>
+
+<p>This presentation by visual artist and technology enthusiast Gerard Damiano is part of the New Short Seminar Series at BIG ARTS, “Talking Points”. Damiano will show examples of his own work created exclusively on these mobile devices. Then in a live demonstration he will preview some of the techniques to be featured in the upcoming series “iCreate: Art and Photography for iPhone & iPad” to be offered this Winter at BIG ARTS. Each of these 5 classes covers  a unique aspect of the creative process using your mobile devices. They may be taken individually, but together they form a complete course.</p>
+
+<p> <strong>Lesson 1: Acquiring Images </strong><br />	
+Learn professional photography techniques and take better pictures with your mobile devices!</p>
+
+<p> <strong>Lesson 2: The Digital Darkroom </strong><br />	
+Edit and enhance your photos with a touch screen interface which gives new meaning to the term “Photo Retouching”!</p>
+
+<p> <strong>Lesson 3: Drawing </strong><br />	
+Use professional tools to draw and sketch with the tip of your finger!</p>
+
+<p> <strong>Lesson 4: Fingerpainting With Light </strong>	<br />
+Create works of art directly on your iPhone and iPad and convert your photos into paintings!</p>
+
+<p> <strong>Lesson 5: Sharing Your Work</strong><br />	
+Share your finished work around the world at the push of a button! Explore the most popular image sharing sites on the web.</p>
+
+<p />You don’t have to be an artist to attend the iCreate Series, but you may be one when you finish.			  	</div>
+	      	</div>
+      	</td>
+      </tr>    
+ <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.24.16_iPhone5.ics">02.24.16</a></td>
+        <td><a onclick="$('#cal022416').slideToggle();"><strong>iPhone Lesson 5: Advanced</strong></a></td>
+        <td>Wed</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal022416" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iPhone5_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Go Further with your iPad!</em></strong><br>
+Keep up with the latest advances in Mobile Technology!  Explore your surroundings with The iPad’s amazing <strong>GPS</strong> function. Plan trips using The <strong>Maps App</strong>, and get a Weather Report before you arrive, from the <strong>Weather App</strong>. Take a “selfie” with <strong>Photo Booth</strong> and add creative effects, or <strong>Shoot</strong> and <strong>Edit HD Video</strong>. <strong>Find Your iPad if it is lost or stolen!</strong><br />Plus <strong>Essential Accessories</strong>, <strong>Tips & Tricks</strong>! 
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+       <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.24.16_Apps3.ics">02.24.16</a></td>
+        <td><a onclick="$('#cal0224162').slideToggle();"><strong>Advanced Apps</strong></a></td>
+        <td>Wed</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0224162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/Apps3_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Take your device to the next level with these powerful programs!</em></strong><br />
+Use <strong>Augmented Reality</strong> to gain more information about the world around you. <strong>Translate languages</strong>, visually! <strong>Beat traffic</strong> or <strong>Find a Ride!</strong> Make phone calls to anywhere for pennies a minute! <strong>Receive credit card payments</strong> directly to your device and much more!
+<br /><strong>Learn the latest advances in this rapid evolving Technology!</strong>
+		  	  </div>
+	      	</div>
+      	</td>
+      </tr>
+       
+	 <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.25.16_iPad5.ics">02.25.16</a></td>
+        <td><a onclick="$('#cal022516').slideToggle();"><strong>iPad Lesson 5: Advanced</strong></a></td>
+        <td>Thu</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal022516" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iPad5_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Go Further with your iPad!</em></strong><br>
+Keep up with the latest advances in Mobile Technology!  Explore your surroundings with The iPad’s amazing <strong>GPS</strong> function. Plan trips using The <strong>Maps App</strong>, and get a Weather Report before you arrive, from the <strong>Weather App</strong>. Take a “selfie” with <strong>Photo Booth</strong> and add creative effects, or <strong>Shoot</strong> and <strong>Edit HD Video</strong>. <strong>Find Your iPad if it is lost or stolen!</strong><br />Plus <strong>Essential Accessories</strong>, <strong>Tips & Tricks</strong>!
+				</div>
+	      	</div>
+      	</td>
+      </tr>
+      
+      <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Feb.2016/02.25.16_PT-5.ics">02.25.16</a></td>
+        <td><a onclick="$('#cal0225162').slideToggle();"><strong>Personal Technology 5: Privacy & Security</strong></a></td>
+        <td>Thu</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0225162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iLearn5.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Separate unfounded fears and phobias from real threats, and Protect Yourself Online!</em></strong><br />
+In recent years, cyber crime statistics have sky rocketed. As our dependency on technology increases, so does our vulnerability. With new viruses appearing every day, what can you do to protect yourself? What is the difference between “<strong>hacking</strong>” and “<strong>Spoofing</strong>”? And what do you do when it happens to you? How can you <strong>Create Strong Passwords</strong>, that are had to crack and easy to remember? How can you protect your email box from Spam? This class separates unfounded fears and phobias, from real threats, and offers strategies to <strong>Protect Yourself Online</strong>!
+				</div>
+	      	</div>
+      	</td>
+      </tr>           
+--> 
+<!--End February-->            
+<!--MARCH-->
+<!--
+     	<table class="table table-striped">
+      	<tr class="edu-month-head">
+        <td colspan="3"><a name="march"></a>
+        <h3 class="edu-title pull-left">March 2016</h3>        
+<a class="iframe" href="http://www.gerardist.com/edu/BA_Mar2016.pdf" target="_blank" class="pull-left ml20">&nbsp;&nbsp;Printable Schedule 03.16</a></td>       
+  
+       		<td colspan="3"><em class="pull-right">* Costs are for Members / Non-Members</em></td>
+        </tr>
+      <tr class="edu-table-head">
+        <td width="9%">Date</td>
+        <td width="35%">Class (click title for details)</td>
+        <td width="7%">Day</td>
+        <td width="17%">Time</td>
+        <td width="15%">Location</td>
+        <td width="17%">* Cost</td>
+      </tr>
+ 	
+ 	 <tr>
+        <td><a href="webcal://www.gerardist.com/eduMar.2016/03.01.16_AppleWatch.ics">03.01.16</a></td>
+        <td><a onclick="$('#cal030116').slideToggle();"><strong>Watch & Learn: The Apple Watch</strong></a></td>
+        <td>Tue</td>
+        <td>9AM – 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal030116" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/Watch&Learn2_100.png" alt="Watch and Learn" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>The long awaited wearable technology from Apple that is as fashionable as it is functional!</em></strong><br />
+Not a replacement for the iPhone, but an extension of it, designed to handle many tasks at a glance. First, and foremost, it’s a fashionable timepiece, accurate within 50 milliseconds. With choices of size, material, color and band, <strong>Apple’s “most personal device”</strong>, is also it’s most customizable. The Apple Watch features the innovative <strong>Digital Crown</strong>, and a <strong>Taptic Engine</strong> for alerts.  Use it to make payments using <strong>Apple Pay</strong>. Whether you have an Apple Watch, or are considering buying one, this class will help you to choose the one that is right for you, and get you up and running with the basics of the <strong>Watch OS</strong>.
+		      	</div>
+	      	</div>
+      	</td>  
+     </tr>  
+
+      <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.01.16_iCloudDrive.ics">03.01.16</a></td>
+        <td><a onclick="$('#cal0301162').slideToggle();"><strong>Cloud Computing and the iCloud Drive</strong></a></td>
+        <td>Tue</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0301162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/CloudDrive_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Back Up your Content and Share it between ALL of your devices...Automatically!</em></strong><br />
+
+Learn the principles of Cloud Computing, and discover the <strong>Free Resources</strong> available to help you <strong>Sync</strong>, <strong>Back Up</strong>, and <strong>share</strong> your data on any computer. Use Apple’s iCloud to keep your Contacts, Calendars and other information up to date. The new <strong>iCloud Drive</strong> allows you to share any kind of file between all of your Apple Devices and a Mac or PC Computer! Protect your data with regular Back Ups, effortlessly, using the cloud.
+<br /><strong>The easiest way to Back Up and Sync your data automatically!</strong>
+		      	</div>
+	      	</div>
+      	</td>
+      </tr>       	
+   
+      <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.02.16_iPhone1.ics">03.02.16</a></td>
+        <td><a onclick="$('#cal030216').slideToggle();"><strong>iPhone Lesson 1: Basics</strong></a></td>
+        <td>Wed</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal030216" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iPhone1_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Unlock the potential of this powerful pocket device!</em></strong><br />
+This class covers <strong>Hardware</strong>, <strong>Settings</strong>, and <strong>Basic Operations</strong>. Learn the <strong>Full Functionality of the Phone App</strong>, including <strong>Visual Voicemail</strong>, <strong>Conference Calling</strong> and <strong>FaceTime</strong>. <strong>Back Up</strong> your phone and keep it updated using <strong>iCloud</strong>. Whether you have an iPhone, or are considering purchasing one, there is something for everyone in this 3 hour "Brain Dump".
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+	
+   <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.02.16_ElCapitan.ics">03.02.16</a></td>
+        <td><a onclick="$('#cal0302162').slideToggle();"><strong>Mac Basics: OS10.11 El Capitan</strong></a>&nbsp;</td>
+        <td>Wed</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0302162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/El-Capitan_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+Get a basic understanding of “the World’s Most Advanced Operating System” and it’s Latest Features. Apple builds on the groundbreaking features and new design introduced in OS 10.10 Yosemite. Little improvements, that make a big difference. In addition to <strong>enhancements in Speed and Performance</strong>, El Capitan offers deeper integration between the<strong> Mail</strong>, <strong>Contacts</strong> and <strong>Calendar</strong> programs, and improvements to <strong>Safari</strong>, <strong>Maps</strong>, <strong>Notes</strong> and <strong>Spotlight Search</strong>. Work in multiple apps simultaneously with <strong>Split View</strong>! Explore all these new advances and more!
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+ 
+  	 <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.03.16_iPad1.ics">03.03.16</a></td>
+        <td><a onclick="$('#cal030316').slideToggle();"><strong>iPad Lesson 1: Basics</strong></a></td>
+        <td>Thu</td>
+        <td>9AM - 12PM</td>       
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal030316" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iPad1_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>The World at a flick of your finger!</em></strong><br />
+Navigate the Multi-Touch Screen Interface and learn about the iPad's <strong>Hardware</strong> and <strong>Settings</strong>. Discover <strong>Typing Techniques </strong>and <strong>Tricks</strong> that will give you the functionality of a <strong>Full Keyboard</strong>! <strong>Cut</strong>, <strong>Copy</strong> and <strong>Paste</strong>! <strong>Spell Check</strong> and <strong>Look-Up Words</strong> as you go.  <strong>Maintain Your Battery</strong>, and <strong>Back Up</strong> your data using <strong>iCloud</strong>.
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+            <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.03.16_iCreate1.ics">03.03.16</a></td>
+        <td><a onclick="$('#cal0303162').slideToggle();"><strong>iCreate Lesson 1: Acquiring Images</strong></a></td>
+        <td>Thu</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0303162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iCreate1_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Learn professional photography techniques and take better pictures with your mobile device!</em></strong><br />
+
+Learn <strong>professional photography techniques</strong> and get the most out of both the iSight, and FaceTime cameras. Shoot <strong>Square Format Images</strong> or<strong> Sweeping Panoramas</strong>. Capture action with <strong>Burst Mode</strong> or speed it up with <strong>Time Lapse Photography</strong>! <strong>Flash Photography</strong>, <strong>HDR</strong>, and <strong>Basic Composition</strong>, will also be covered. Take Screenshots and discover other methods for acquiring images from Emails, Text Message and across the web!
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+  <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.04.16_iMovie1.ics">03.04.16</a></td>
+        <td><a onclick="$('#cal030416').slideToggle();"><strong>iMovie For iPhone & iPad: Lesson 1</strong></a></td>
+        <td>Fri</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal030416" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iMovie1_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Lights! Camera! Action!</em></strong><br />
+<strong>Learns the basics of your built in HD Video Camera</strong>. Shoot standard and <strong>Time lapse video</strong>, or capture the action in <strong>Slow Motion</strong>. Then trim your clips and edit them together, add transitions, music, and titles. And you’re making movies… Right on your mobile device!
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+      <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.08.16_Google.ics">03.08.16</a></td>
+        <td><a onclick="$('#cal030816').slideToggle();"><strong>Searching With Google</strong></a></td>
+        <td>Tue</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal030816" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/Google_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Search Engine Tricks and Techniques. Discover a wealth of Free Services courtesy of Google!</em></strong><br />
+Not just the most popular search engine on the web, it is the single most visited website, period. Google boasts several hundred million queries each day. Learn Techniques to help you <strong>maximize your efforts</strong> and <strong>get the most accurate results</strong>. Uncover little know features of this amazing resource! Take advantage of Google's Free Products and Services such as <strong>Gmail</strong>, <strong>Google Earth</strong>, <strong>Google Maps</strong>, <strong>Google+</strong>, and more. Get <strong>Free Cloud Storage</strong> with <strong>Google Drive</strong>, and a <strong>Free Phone Number</strong> with <strong>Google Voice</strong>!<br />
+<strong>Seek and Ye Shall Find!</strong>
+		  	  </div>
+	      	</div>
+      	</td>
+      </tr>
+    <tr>    
+                 <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.08.16_iTunes1.ics">03.08.16</a></td>
+        <td><a onclick="$('#cal0308162').slideToggle();"><strong>iTunes: Master Your Music<br /></strong></a></td>
+        <td>Tue</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+                <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0308162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iTunes.Music_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Rock your World… with iTunes!</em></strong><br />
+<strong>Rip, Remix and Burn.</strong> Organize and share your music collection across all of your devices. Use iTunes on you computer to import music from CDs and other sources, create customized playlists and burn your own CDs. Then sync your iPod, iPad or iPhone! Understand digital music formats and learn which work best for you. Unlock the power of the iTunes Visualizer. Discover endless sources for Free Music! Plus Tips, Tricks, Shortcuts and more!
+&#9733; iTunes comes installed on all Macintosh computers and is available as a Free Download for PCs. Please bring your portable computer and all Apple devices that you listen to music on.
+				</div>
+	      	</div>
+      	</td>
+      </tr>
+              <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.09.16_iPhone2.ics">03.09.16</a></td>
+        <td><a onclick="$('#cal030916').slideToggle();"><strong>iPhone Lesson 2: Intermediate</strong></a></td>
+        <td>Wed</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal030916" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iPhone2_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Discover the Amazing Built-in Apps that come with your phone!</em></strong><br />
+The iPhone comes fully equipped with many useful tools such as a <strong>Calculator</strong>, <strong>Notes</strong>, <strong>Voice Memos</strong>, and even a customizable <strong>Stock Ticker</strong>. Learn <strong>Typing Techniques</strong> that give you the functionality of a Full Keyboard! <strong>Cut, Copy and Paste</strong>! <strong>Spell Check</strong> and look-up words as you go. Get organized with the <strong>Contacts</strong> and <strong>Calendar</strong> Apps, then Sync your data instantly with your computer, and all of your Apple devices, using <strong>iCloud</strong>! Protect your identity and your data with <strong>Privacy Settings</strong>.
+	      	</div>
+      	</td>
+      </tr>
+          <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.09.16_MacPwrUsr.ics">03.09.16</a></td>
+        <td><a onclick="$('#cal0309162').slideToggle();"><strong>Mac Power Users Tips & Tricks</strong></a></td>
+        <td>Wed</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0309162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/PwrUsr_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Maximize your Keystrokes and get the most out of your Mac!</em></strong><br />
+Learn the hidden features and functions of the Macintosh computer. <strong>Keyboard Shortcuts</strong>, <strong>Killer Tips</strong> and <strong>Tricks</strong>, <strong>Maintenance</strong> and <strong>Back Up</strong> strategies. Beginner, intermediate and advanced users alike, can benefit from this examination of "what they don't tell you" when you buy your Mac.
+	      	</div>
+      	</td>
+      </tr>
+         
+     <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.10.16_iPad2.ics">03.10.16</a></td>
+        <td><a onclick="$('#cal031016').slideToggle();"><strong>iPad Lesson 2: Intermediate</strong></a></td>
+        <td>Thu</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal031016" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iPad2_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>The Future of Personal Computing… Today!</em></strong><br>Discover the powerful built-in apps that come on your iPad. Get organized with the <strong>Contacts</strong> and <strong>Calendar</strong> Apps, then <strong>sync</strong> with all of your Apple devices instantly using <strong>iCloud</strong>! Connect with friends, family and business associates using <strong>Text</strong> and <strong>Multi-Media Messaging</strong> or <strong>Video Conference</strong> with <strong>FaceTime</strong>!
+	      	</div>
+      	</td>
+      </tr>
+       
+     <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.10.16_iCreate2.ics">03.10.16</a></td>
+        <td><a onclick="$('#cal0310162').slideToggle();"><strong>iCreate Lesson 2: The Digital Darkroom</strong></a></td>
+        <td>Thu</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0310162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iCreate2_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>The touch screen interface gives new meaning to the term “Photo Retouching”</em></strong><br />
+
+<strong>Remove Red-Eye</strong>, <strong>Crop</strong>, and <strong>Enhance</strong>, then add <strong>Filter Effects</strong> using the built-in tools on your device. 
+Discover Free 3rd party apps to <strong>Sharpen</strong>, <strong>Color Correct</strong>, <strong>Lighten</strong>, <strong>Darken</strong>, <strong>Adjust Color Saturation</strong> and more!
+Create <strong>Composite Images</strong> and <strong>Add Text</strong>. Take your photos to the next level with amazing <strong>Templates</strong> and <strong>Special Effects</strong>. 
+			 	</div>
+	      	</div>
+      	</td>
+      </tr>    
+
+ <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.11.16_iMovie2.ics">03.11.16</a></td>
+        <td><a onclick="$('#cal031116').slideToggle();"><strong>iMovie For iPhone & iPad: Lesson 2</strong></a></td>
+        <td>Fri</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal031116" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iMovie2_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Take your own video footage and make it look like something straight out of Hollywood!</em></strong><br />
+Use Templates or “Themes”, and video filters, to help you stylize your movies to <strong>get very professional looking results with little effort</strong>. iMovie trailers helps you to build your own big‑screen teaser. Choose from 14 movie trailer templates, drop in your clips, photos and character names and let iMovie do the rest. Then show your production with iMovie Theater or share it, via the web. You can email it, send it via iMessage, or upload it directly to Facebook, YouTube, Vimeo, and more, right from your device.
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+ 
+       <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.15.16_Apps1.ics">03.15.16</a></td>
+        <td><a onclick="$('#cal031516').slideToggle();"><strong>Essential Apps</strong></a></td>
+        <td>Tue</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal031516" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/Apps1_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Expand your capabilities with these proven, practical and productive apps!</em></strong><br />
+Learn to navigate the <strong>App Store</strong> and expand the possibilities of all your Apple devices. Download the most acclaimed and widely used 3rd Party Apps currently available. Explore apps to help you gather information, <strong>network</strong>, <strong>dine</strong>, <strong>travel</strong>, <strong>shop</strong>, <strong>increase productivity</strong>, and much more!
+		  	  </div>
+	      	</div>
+      	</td>
+      </tr>
+         
+	 <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.15.16_iTunes2.ics">03.15.16</a></td>
+        <td><a onclick="$('#cal0315162').slideToggle();"><strong>iTunes: Manage Your Devices</strong></a></td>
+        <td>Tue</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0315162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iTunes.Devices_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Discover the Power of iTunes to Manage and Sync ALL of your Apple Devices!</em></strong><br />
+iTunes may have began as a simple music player, but it has grown to become much more. 
+It is not only a mobile device management application, but the <strong>Digital Hub</strong> that let’s you manage and link all of your devices together. It enables you to <strong>Sync</strong> music and photos from your Mac or PC computer, to update and <strong>Backup</strong> all of your Apple devices. It is your portal to the iTunes Store, where you can purchase and download </trong>Music</strong>, <strong>Music Videos</strong>, <strong>TV Shows</strong>, <strong>Audiobooks</strong>, <strong>Podcasts</strong>, <strong>Movies</strong>, and even <strong>Movie Rentals</strong>. Then <strong>Share</strong> all of this media throughout your network, with <strong>Homesharing</strong>.<strong> iTunes U</strong> brings you lectures, discussions, lessons, and more from top universities, museums, and other cultural institutions around the world.
+				</div>
+	      	</div>
+      	</td>
+      </tr>
+     
+      <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.16.16_iPhone3.ics">03.16.16</a></td>
+        <td><a onclick="$('#cal031616').slideToggle();"><strong>iPhone Lesson 3: Email & The Web</strong></a></td>
+        <td>Wed</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal031616" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iPhone3_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Surf the Web, and manage your Email accounts on the go!</em></strong><br />
+<strong>Surf The Web</strong> with <strong>Safari</strong>. Download information, images and more, then share it all, effortlessly. <strong>Bookmark your favorite sites</strong>, then <strong>Sync</strong> them with your home computer, and other Apple devices. Set up all of your <strong>Email</strong> accounts right on your phone. <strong>Send</strong>, <strong>Receive</strong>, <strong>Reply</strong>, <strong>Forward messages</strong>, and even add <strong>Attachments</strong>! Learn essential <strong>Email Etiquette</strong>. Use the <strong>Messages App</strong> to send <strong>text</strong> or <strong>multimedia messages</strong> free of charge!
+				</div>
+	      	</div>
+      	</td>
+      </tr>  
+   
+       <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.17.16_iPad3.ics">03.17.16</a></td>
+        <td><a onclick="$('#cal031716').slideToggle();"><strong>iPad Lesson 3: Email & The Web</strong></a></td>
+        <td>Thu</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal031716" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iPad3_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Surf the web and manage your Email accounts On The Go!</em></strong><br />
+<strong>Surf The Web</strong> with <strong>Safari</strong>. Download information, images and more, then share it all, effortlessly. <strong>Bookmark your favorite sites</strong>, then <strong>Sync</strong> them with your home computer, and other Apple devices. Set up all of your <strong>Email</strong> accounts right on your phone. <strong>Send</strong>, <strong>Receive</strong>, <strong>Reply</strong>, <strong>Forward messages</strong>, and even add <strong>Attachments</strong>! Learn essential <strong>Email Etiquette</strong>. Use the <strong>Messages App</strong> to send <strong>text</strong> or <strong>multimedia messages</strong> free of charge!
+		      	</div>
+	      	</div>
+      	</td>
+      </tr>       	
+     
+      <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.17.16_iCreate3.ics">03.17.16</a></td>
+        <td><a onclick="$('#cal0317162').slideToggle();"><strong>iCreate Lesson 3: Drawing</strong></a></td>
+        <td>Thu</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0317162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iCreate3-Temp_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Draw it out… Use professional tools to draw and sketch with the tip of your finger!</em></strong><br />
+<strong>Sketchbook Pro</strong>, considered by many to be the industry standard for digital sketching, allows you to draw directly onto your mobile device with the tip of a finger. <strong>Pens</strong>, <strong>brushes</strong>, and other <strong>virtual drawing tools</strong> are totally customizable, to allow you to get the look that you want. The free version, Sketchbook Express, will be demonstrated in class.  A variety of <strong>styluses</strong> and other <strong>accessories</strong> for use with the touch screen interface will be shown. Other popular drawing apps may also be covered.
+<p>&#9733; Download Sketchbook Express (Free) prior to class.</p>
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+
+  <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.18.16_MacPhotos.ics">03.18.16</a></td>
+        <td><a onclick="$('#cal031816').slideToggle();"><strong>The Photos App For Mac OS</strong></a></td>
+        <td>Fri</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal031816" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/Photos-Mac_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>The popular mobile App has merged with iPhoto, to become the New Photos App for Mac OS!</em></strong><br />
+The all-new design of the Photos app automatically organizes photos and videos by when and where they were taken. Or you can create albums according to your own preferences. Powerful but easy‑to‑use editing tools allow you to <strong>Enhance and Improve your photos with just 1 click</strong>, or use Adjustments to control the finest details. <strong>Add Filters for striking effects</strong>. Use <strong>iCloud Photo Library</strong>, to store all of your photos in the cloud, making them accessible to all of your devices at anytime. Share your favorites in more ways than ever before, even print a hard cover coffee table book, right from the app!
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+ 
+ 	 <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.22.16_ Apps2.ics">03.22.16</a></td>
+        <td><a onclick="$('#cal032216').slideToggle();"><strong>Entertaining Apps</strong></a></td>
+        <td>Tue</td>
+        <td>9AM - 12PM</td>       
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal032216" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/Apps2_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Have Fun with the latest Videos, Music, Games, Puzzles and more!</em></strong><br />
+<strong>Listen to any radio station in the world</strong>, or create your own! Download <strong>Free Podcasts</strong> or choose from millions of songs to purchase. <strong>Watch Movies</strong>, <strong>TV Shows</strong>, <strong>Videos</strong>, and keep track of all of your favorite <strong>Sports</strong> teams. <strong>Skill Games</strong>, <strong>Word Games</strong>, <strong>Trivia<strong> and <strong>Puzzles</strong>, that test your reflexes, your intelligence, your luck, and your sanity! <strong>Enjoy Yourself!</strong>
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+   
+             <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.22.16_SocMedia.ics">03.22.16</a></td>
+        <td><a onclick="$('#cal0322162').slideToggle();"><strong>Social Media & Networking</strong></a></td>
+        <td>Tue</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0322162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/SocialNet_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Connect & share with the people in your life…  individually, or all at once!</em></strong><br />
+Social Media as we know it is less than 20 years old, yet it continues to shape the way our culture communicates. For some however, it is a jargon filled mystery, which has turned all of our pound signs into “Hashtags”. This class provides a brief <strong>history of Social Media</strong>, with an overview of some of the most popular sites, such as <strong>Facebook</strong>, <strong>Twitter</strong>, <strong>MySpace</strong>, <strong>Instagram</strong>, <strong>Linkedin</strong>, and more. Learn which sites are most suitable for you, and <strong>take advantage of today's most popular networking forums!</strong>
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+
+  <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.23.16_iPhone4.ics">03.23.16</a></td>
+        <td><a onclick="$('#cal032316').slideToggle();"><strong>iPhone Lesson 4: Media</strong></a></td>
+        <td>Wed</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal032316" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iPhone4_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Master All of Your Media, and take it with you, wherever you go!</em></strong><br>
+Purchase songs through the <strong>iTunes Store</strong>, or <strong>sync</strong> your entire <strong>music</strong> collection from your computer. Discover a world of<strong>Free Content</strong> with Podcasts! Watch Videos and TV Shows</strong>,<strong> Play Music,</strong>, or <strong>Read Books</strong>, <strong> Newspapers</strong>, <strong> Magazines</strong>, right on your phone! 
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+ 
+     <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.24.16_iPad4.ics">03.24.16</a></td>
+        <td><a onclick="$('#cal032416').slideToggle();"><strong>iPad Lesson 4: Media</strong></a></td>
+        <td>Thu</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal032416" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iPad4_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Master All of Your Media, and take it with you, wherever you go!</em></strong><br>
+Purchase songs through the <strong>iTunes Store</strong>, or <strong>Sync</strong> your entire <strong>Music</strong> collection from your computer. Download <strong>Podcasts</strong> and discover a world of <strong>Free Content</strong>! Read <strong>eBooks</strong>, <strong>Newspapers</strong>, and <strong>Magazines</strong>. Watch <strong>Videos</strong>, <strong>Movies</strong>, <strong>TV Shows</strong> and more!
+		  	  </div>
+	      	</div>
+      	</td>
+      </tr>
+  
+   <tr>    
+                 <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.24.16_iCreate4.ics">03.24.16</a></td>
+        <td><a onclick="$('#cal0324162').slideToggle();"><strong>iCreate Lesson 4:<br />Fingerpainting With Light</strong></a></td>
+        <td>Thu</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+                <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0324162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iCreate4_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Create Works of Art directly on your iPhone and iPad!</em></strong><br />
+<strong>ArtStudio</strong>, described as “the most comprehensive, sketching, painting and photo editing tool in the App Store”, is like having <strong>Photoshop in your pocket</strong>. It allows you to draw and paint directly on your mobiles devices. After a live demonstration, students will create their own art work in class. Other Apps will be explored which enable you to transform your photos into paintings!
+<p>&#9733; You are invited (but not required) to download ArtStudio ($4.99) prior to class. Other Free 3rd Party Apps will also be demonstrated.</p>
+				</div>
+	      	</div>
+      	</td>
+      </tr>
+   
+                 <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.25.16_iPhone_Ess.ics">03.25.16</a></td>
+        <td><a onclick="$('#cal032516').slideToggle();"><strong>iPhone Essentials</strong></a></td>
+        <td>Fri</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal032516" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iPhone-Ess_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Take Control of your iPhone!</em></strong><br />
+The key points of the entire iPhone series are condensed into this one session “Crash Course”, which is designed to get the beginner up and running, with a basic understanding of the iPhone and it's functions.
+	      	</div>
+      	</td>
+      </tr>
+ 
+       <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.25.16_iPad_Ess.ics">03.25.16</a></td>
+        <td><a onclick="$('#cal0325162').slideToggle();"><strong>iPad Essentials</strong></a></td>
+        <td>Fri</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0325162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iPad-Ess_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Take Control of your iPad!</em></strong><br />
+The key points of the entire iPad series are condensed into this one session “<strong>Crash Course</strong>”, which is designed to get the beginner up and running, with a basic understanding of the iPad and it's functions.
+	      	</div>
+      	</td>
+      </tr>
+          
+     <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.29.16_ Apps3.ics">03.29.16</a></td>
+        <td><a onclick="$('#cal032916').slideToggle();"><strong>Advanced Apps</strong></a></td>
+        <td>Tue</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal032916" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/Apps3_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Take your device to the next level with these powerful programs!</em></strong><br />
+Use <strong>Augmented Reality</strong> to gain more information about the world around you. <strong>Translate languages</strong>, visually! <strong>Beat traffic</strong> or <strong>Find a Ride!</strong> Make phone calls to anywhere for pennies a minute! <strong>Receive credit card payments</strong> directly to your device and much more!
+<br /><strong>Learn the latest advances in this rapid evolving Technology!</strong>
+	      	</div>
+      	</td>
+      </tr>
+    
+     <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.29.16_FB.ics">03.29.16</a></td>
+        <td><a onclick="$('#cal0329162').slideToggle();"><strong>Connecting with Facebook</strong></a></td>
+        <td>Tue</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0329162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/FB_100.jpg" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Understand the world’s most popular Social Media Website</em></strong><br />
+Facebook can be an excellent way to connect with friends and family, around the block or around the world.
+This web giant grew beyond the Harvard University Campus, to have nearly <strong>1.5 billion users</strong> in just 10 years.
+Yet, despite it’s popularity, some still find Facebook incomprehensible, and have very real concerns about privacy and security. This class demystifies Facebook, and offers a basic understanding of it, with a simple, no-nonsense approach. Learn <strong>Privacy Settings</strong> to <strong>Protect Your Page</strong>, by controlling who has access to your content.
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>    
+
+ <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.30.16_iPhone5.ics">03.30.16</a></td>
+        <td><a onclick="$('#cal033016').slideToggle();"><strong>iPhone Lesson 5: Advanced</strong></a></td>
+        <td>Wed</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal033016" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iPhone5_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Go Further with your iPhone!</em></strong>
+Keep up with the latest advances in iPhone Technology. Explore your surroundings using the <strong>Compass App</strong> and <strong>GPS</strong> function of your phone. Plan trips using The <strong>Maps App</strong> and get a Weather Report before you arrive, with the <strong>Weather App</strong>. <strong>Find Your iPhone if it is lost or stolen</strong>! Plus useful <strong>Accessories and Power User Tips & Tricks!</strong>  <p><br />&#9733; This class, for intermediate and advanced users alike, assumes a basic working knowledge of the iPhone.<p/> 
+			  	</div>
+	      	</div>
+      	</td>
+      </tr>
+
+       <tr>
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.31.16_iPad5.ics">03.31.16</a></td>
+        <td><a onclick="$('#cal033116').slideToggle();"><strong>iPad Lesson 5: Advanced</strong></a></td>
+        <td>Thu</td>
+        <td>9AM - 12PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal033116" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+			      	<img src="edu/2016.class_images/iPhone5_100.png" alt="" class="img-responsive" />
+		      	</div>
+			  	<div class="col-md-10">
+<strong><em>Go Further with your iPad!</em></strong><br>
+Keep up with the latest advances in Mobile Technology!  Explore your surroundings with The iPad’s amazing <strong>GPS</strong> function. Plan trips using The <strong>Maps App</strong>, and get a Weather Report before you arrive, from the <strong>Weather App</strong>. Take a “selfie” with <strong>Photo Booth</strong> and add creative effects, or <strong>Shoot</strong> and <strong>Edit HD Video</strong>. <strong>Find Your iPad if it is lost or stolen!</strong><br />Plus <strong>Essential Accessories</strong>, <strong>Tips & Tricks</strong>! 
+		  	  </div>
+	      	</div>
+      	</td>
+      </tr>
+       
+	 <tr style="background-color:#e9e9e9;">
+        <td><a href="webcal://www.gerardist.com/edu/Mar.2016/03.31.16_iCreate5.ics">03.31.16</a></td>
+        <td><a onclick="$('#cal0331162').slideToggle();"><strong>iCreate Lesson 5: Sharing Your Work</strong></a></td>
+        <td>Thu</td>
+        <td>2PM - 5PM</td>
+        <td> <a class="iframe" href="http://www.mapquest.com/search/results?page=0&centerOnResults=1&slug=%2Fus%2Ffl%2Fsanibel%2F33957-4016%2F900-dunlop-rd-26.438237,-82.071824&query=900%20Dunlop%20Rd,%20Sanibel,%20FL%2033957-4016" target="_blank">BIG ARTS</a></td>
+        <td>$50 / $63</td>
+      </tr>
+      <tr id="cal0331162" height="150">
+      	<td colspan="6">
+	      	<div class="row">
+		      	<div class="col-md-2">
+		      		<img src="edu/2016.class_images/iCreate5_100.png" alt="" class="img-responsive" />
+		      	</div>
+		      	<div class="col-md-10">
+<strong><em>Share your finished artwork around the world at the push of a virtual button!</em></strong><br />
+<strong>Email</strong>, <strong>Text</strong> or <strong>Post</strong> your images to <strong>Facebook</strong>, <strong>Twitter</strong> and <strong>Instagram</strong> right from the Photos app. Share <strong>entire photo albums <strong>with iCloud! Create professional looking <strong>Slideshows</strong> in seconds. Explore some of the most popular image sharing sites, such as <strong>Imgur</strong>, <strong>Flickr</strong>, <strong>Tumblr</strong>, <strong>Photobucket</strong>, and <strong>Shutterfly</strong>. 
+				</div>
+	      	</div>
+      	</td>
+      </tr> 
+--> 
+<!--END MARCH-->   
+   
+          </table>
+          <div style="color:#999999;"><strong>BIG ARTS</strong> is located at 900 Dunlop Road, Sanibel, FL 33987<br />
+          The <strong>Captiva Civic Association</strong> is located at 11550 Chapin Lane Captiva, FL 33924<br />
+			The <strong> Lee County Alliance for the Arts</strong> is located at 10091 McGregor Blvd. Fort Myers, FL 33919<br />
+          		<strong>SWACKS</strong> meets at Zion Lutheran Church 7401 Winkler Rd., Fort Myers, FL 33919</div>
+      
+    
+  		
+      		<a href="#" class="scrollTo" title="Scroll to the Top" onclick="scrollToTop();return false"></a>
+      		
+      		
+      		<!-- end right content -->
+      	</div>
+      </div>
+     
+<!--#include file="inc/footer" -->
